@@ -8,7 +8,7 @@ export const OptionData = [
     },
   
     {
-      h1: "Support independent creators",
+      h1: "Independent creators",
       p: "Just millions of people selling the things they love.",
       img: "/images/optionImgTwo.png",
     },
@@ -73,12 +73,12 @@ export const OptionData = [
     },
     {
       IMG: "/images/optionImgTwelve.png",
-      h5: "High Top Canvas Sneakers Shoes",
+      h5: "High Top Canvas White Sneakers Shoes",
       h6: "341,02 $",
     },
     {
       IMG: "/images/optionImgThirteen.png",
-      h5: "Gold Moissanite Vintage Wedding Ring Set",
+      h5: "Gold Moissanite Vintage Wedding Ring",
       h6: "3.344,13 $",
     },
     {
@@ -88,18 +88,18 @@ export const OptionData = [
     },
   ];
   
-  export const ShoeData = [
-    {
-      img: "/images/shoeOne.png",
-    },
-    {
-      img: "/images/shoeTwo.png",
-    },
-    {
-      img: "/images/shoeThree.png",
-    },
-    {
-      img: "/images/shoeFour.png",
-    },
-  ];
+  // export const ShoeData = [
+  //   {
+  //     img: "/images/shoeOne.png",
+  //   },
+  //   {
+  //     img: "/images/shoeTwo.png",
+  //   },
+  //   {
+  //     img: "/images/shoeThree.png",
+  //   },
+  //   {
+  //     img: "/images/shoeFour.png",
+  //   },
+  // ];
   
